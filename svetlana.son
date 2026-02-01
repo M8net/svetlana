@@ -1,0 +1,6 @@
+{
+  "name": "Svetlana",
+  "native_model_urls": {
+    "v1": "https://raw.githubusercontent.com/TUO_UTENTE/TUO_REPO/main/sve-tlah-na.tflite"
+  }
+}
