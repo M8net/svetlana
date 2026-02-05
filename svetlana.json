@@ -2,14 +2,14 @@
   "type": "micro",
   "wake_word": "svetlana",
   "author": "M8net",
-  "model": "https://raw.githubusercontent.com/M8net/svetlana/main/svetlana.json",
+  "model": "https://raw.githubusercontent.com/M8net/svetlana/main/svetlana.tflite",
   "trained_languages": ["it"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.77,
     "sliding_window_size": 5,
     "feature_step_size": 10,
-    "tensor_arena_size": 26080,
+    "tensor_arena_size": 9798,
     "minimum_esphome_version": "2024.7.0"
   }
 }
