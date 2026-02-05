@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "svetlana",
   "author": "M8net",
-  "model": "https://raw.githubusercontent.com/M8net/svetlana/main/svetlana.tflite",
+  "model": "https://raw.githubusercontent.com/M8net/svetlana/main/svetlana-esp32.tflite",
   "trained_languages": ["it"],
   "version": 2,
   "micro": {
